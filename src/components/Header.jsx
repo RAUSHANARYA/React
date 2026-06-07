@@ -22,6 +22,7 @@ function Header() {
       <div className="d-flex gap-4">
         <span>Home</span>
         <span>About</span>
+        <span>Login</span>
         <span>Contact_Us</span>
       </div>
 
